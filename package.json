@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Simple Todo application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stevobengtson/todo.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Steven 'Stevo' Bengtson <steven.bengtson@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevobengtson/todo/issues"
+  },
+  "homepage": "https://github.com/stevobengtson/todo#readme"
+}
